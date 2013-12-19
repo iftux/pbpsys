@@ -1,5 +1,5 @@
-Acerca De
-=========
+Bienvenidos
+============
 
 __H__ola a todos, antes que nada déjenme darle la bienvenida a mi wiki personal, en al cual les iré mostrando mis diferentes proyectos, ya sean a través de paginas webs o de softwares distribuidos bajo licencia GPL.
 
