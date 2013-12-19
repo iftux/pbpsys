@@ -1,4 +1,4 @@
 Foro
 ====
 
-[gimmick:Disqus](kingworld2013)
+[gimmick:Disqus](pbpsys)
