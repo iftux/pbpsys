@@ -7,4 +7,4 @@ NoteIf
   * __Foro__ [Noticias](http://piftux.tuxfamily.org/viewforum.php?id=4) [Soporte](http://piftux.tuxfamily.org/viewforum.php?id=6)
   * __Descargar__ [RC 1](http://sourceforge.net/projects/noteif/files/NoteIf%20RC1/)
 
-Todos mis software se distribuyen bajo licencia [GPL V3](gplv3.md)
+Todos mis software se distribuyen bajo licencia GPL V3
