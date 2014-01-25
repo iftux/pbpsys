@@ -11,6 +11,7 @@
   - - - -
   * # Softwares
   * [NoteIf](proyectos/noteif.md)
+  * [DDistrox](proyectos/ddistrox.md)
 
 [Videos](tubeteca.md)
 

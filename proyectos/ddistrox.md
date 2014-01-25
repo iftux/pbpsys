@@ -1,10 +1,10 @@
 DDistroX
 =========
 
-![](/pbpsys/imagenes/ddistroxlogo.png) __NoteIf__ es un editor de textos libre y gratuito en el cual podrás crear documento de textos, cuenta con una interfaz simple y fácil de entender.
+![](/pbpsys/imagenes/ddistroxlogo.png) __DDistrox__ es una pequeña aplicación programada en bash con al cual podrás descargar tus distribuciones favoritas sin tener que buscarlas a través de el navegador.
 
-  * __Web__ [Web Oficial](http://iftux.wordpress.com/noteif-bloc-de-notas-para-linux/)
-  * __Foro__ [Noticias](http://piftux.tuxfamily.org/viewforum.php?id=4) [Soporte](http://piftux.tuxfamily.org/viewforum.php?id=6)
-  * __Descargar__ [RC 1](http://sourceforge.net/projects/noteif/files/NoteIf%20RC1/)
+  * __Web__ [Web Oficial](http://iftux.wordpress.com/ddistrox/)
+  * __Foro__ [Soporte](https://github.com/iftux/ddistrox/issues)
+  * __Descargar__ [Código Fuente](https://github.com/iftux/ddistrox/archive/master.zip)
 
 Todos mis software se distribuyen bajo licencia GPL V3
